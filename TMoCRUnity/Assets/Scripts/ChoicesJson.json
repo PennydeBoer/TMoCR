@@ -1,0 +1,427 @@
+{
+  "choices": [
+    {
+      "choiceCount": "0",
+      "choiceA": "'I'll do it.'",
+      "choiceB": "'No thanks.'",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "4",
+      "resultPageB": "6"
+    },
+    {
+      "choiceCount": "1",
+      "choiceA": "Go up the stairs",
+      "choiceB": "Go through the swinging door into the dining room",
+      "resultA": "3",
+      "resultB": "4",
+      "resultPageA": "8",
+      "resultPageB": "10"
+    },
+    {
+      "choiceCount": "2",
+      "choiceA": "Wait for Michael to get help",
+      "choiceB": "Go inside after Jane right away",
+      "resultA": "5",
+      "resultB": "6",
+      "resultPageA": "11",
+      "resultPageB": "12"
+    },
+    {
+      "choiceCount": "3",
+      "choiceA": "Open the closet door",
+      "choiceB": "Go back to the landing",
+      "resultA": "7",
+      "resultB": "8",
+      "resultPageA": "14",
+      "resultPageB": "15"
+    },
+    {
+      "choiceCount": "4",
+      "choiceA": "Accept her offer",
+      "choiceB": "Decide to question her first",
+      "resultA": "9",
+      "resultB": "10",
+      "resultPageA": "16",
+      "resultPageB": "17"
+    },
+    {
+      "choiceCount": "5",
+      "choiceA": "Go to the caretaker's cottage, hoping you can get him to help you",
+      "choiceB": "Climb up the vine to the balcony",
+      "resultA": "14",
+      "resultB": "13",
+      "resultPageA": "22",
+      "resultPageB": "21"
+    },
+    {
+      "choiceCount": "6",
+      "choiceA": "Try to force Jane across the bars to prove they are not real",
+      "choiceB": "Say 'I'll go get help.'",
+      "resultA": "11",
+      "resultB": "12",
+      "resultPageA": "19",
+      "resultPageB": "20"
+    },
+    {
+      "choiceCount": "7",
+      "choiceA": "Go back for the keys",
+      "choiceB": "Continue down the stairs to the kitchen",
+      "resultA": "15",
+      "resultB": "16",
+      "resultPageA": "24",
+      "resultPageB": "25"
+    },
+    {
+      "choiceCount": "8",
+      "choiceA": "Go back and make sure you can open the trapdoor",
+      "choiceB": "Continue down the stairs",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "26",
+      "resultPageB": "28"
+    },
+    {
+      "choiceCount": "9",
+      "choiceA": "Try to sleep until morning",
+      "choiceB": "Try to grope your way out",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "27",
+      "resultPageB": "31"
+    },
+    {
+      "choiceCount": "10",
+      "choiceA": "Try to leave Chimney Rock",
+      "choiceB": "Go to the music room",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "32",
+      "resultPageB": "34"
+    },
+    {
+      "choiceCount": "11",
+      "choiceA": "Speak to Mrs. Bigley",
+      "choiceB": "Run down the stairs",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "35",
+      "resultPageB": "36"
+    },
+    {
+      "choiceCount": "12",
+      "choiceA": "Humor Mrs. Bigley and have some cheese and crackers",
+      "choiceB": "Try to get away",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "37",
+      "resultPageB": "38"
+    },
+    {
+      "choiceCount": "13",
+      "choiceA": "Call for Jane through the open window",
+      "choiceB": "Climb in",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "41",
+      "resultPageB": "42"
+    },
+    {
+      "choiceCount": "14",
+      "choiceA": "Ask Jervis to let you inside the house",
+      "choiceB": "Do'nt Ask",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "39",
+      "resultPageB": "40"
+    },
+    {
+      "choiceCount": "15",
+      "choiceA": "Call the cat to show you are friendly",
+      "choiceB": "Retreat down the stairs to the kitchen",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "44",
+      "resultPageB": "46"
+    },
+    {
+      "choiceCount": "16",
+      "choiceA": "Try to evade him by hiding somewhere in the house",
+      "choiceB": "Go to the door and meet him",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "48",
+      "resultPageB": "49"
+    },
+    {
+      "choiceCount": "17",
+      "choiceA": "Call out 'Hello.'",
+      "choiceB": "Try to find where the voice was coming from",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "54",
+      "resultPageB": "50"
+    },
+    {
+      "choiceCount": "18",
+      "choiceA": "Tell Jervis 'I'll go find the cat and stare it down.'",
+      "choiceB": "Try to get past Jervis and escape",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "56",
+      "resultPageB": "57"
+    },
+    {
+      "choiceCount": "19",
+      "choiceA": "Try to find the cat",
+      "choiceB": "Start up the stairway",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "52",
+      "resultPageB": "55"
+    },
+    {
+      "choiceCount": "20",
+      "choiceA": "Say 'Yes.'",
+      "choiceB": "Try to reason with her",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "58",
+      "resultPageB": "59"
+    },
+    {
+      "choiceCount": "21",
+      "choiceA": "Start picking up the pieces",
+      "choiceB": "Try to get out as fast as you can",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "60",
+      "resultPageB": "61"
+    },
+    {
+      "choiceCount": "22",
+      "choiceA": "Talk to the policeman",
+      "choiceB": "Go into another part of the house and look for Jane",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "66",
+      "resultPageB": "67"
+    },
+    {
+      "choiceCount": "23",
+      "choiceA": "Run out of the house with Lena",
+      "choiceB": "Go back to the front hall where you left Jane",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "72",
+      "resultPageB": "73"
+    },
+    {
+      "choiceCount": "24",
+      "choiceA": "Stop to investigate what it was you saw",
+      "choiceB": "Follow the cat",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "74",
+      "resultPageB": "76"
+    },
+    {
+      "choiceCount": "25",
+      "choiceA": "Run down the road to get help",
+      "choiceB": "Run down the road until you are out of sight of the cottage, then sneak back and see if you can get into the house",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "77",
+      "resultPageB": "78"
+    },
+    {
+      "choiceCount": "26",
+      "choiceA": "Wrench yourself away and run for it",
+      "choiceB": "Say 'There, the curse is ended.'",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "82",
+      "resultPageB": "83"
+    },
+    {
+      "choiceCount": "27",
+      "choiceA": "Say 'I'll get help.'",
+      "choiceB": "Ask 'Where is my cousin Jane?'",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "80",
+      "resultPageB": "81"
+    },
+    {
+      "choiceCount": "28",
+      "choiceA": "Swing the bottle at the figure",
+      "choiceB": "Ask 'Who is it?'",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "84",
+      "resultPageB": "89"
+    },
+    {
+      "choiceCount": "29",
+      "choiceA": "Duck into the cedar closet and observe from there",
+      "choiceB": "Walk up to the opening door",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "90",
+      "resultPageB": "91"
+    },
+    {
+      "choiceCount": "30",
+      "choiceA": "Leave",
+      "choiceB": "Stay and ask more questions",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "99",
+      "resultPageB": "100"
+    },
+    {
+      "choiceCount": "31",
+      "choiceA": "Run into the cave to escape",
+      "choiceB": "Scream for help",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "117",
+      "resultPageB": "118"
+    },
+    {
+      "choiceCount": "32",
+      "choiceA": "Try to hide upstairs",
+      "choiceB": "Try to escape unnoticed out one of the front windows",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "48",
+      "resultPageB": "92"
+    },
+    {
+      "choiceCount": "33",
+      "choiceA": "Follow her out of the room",
+      "choiceB": "Pick Melissa up",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "85",
+      "resultPageB": "110"
+    },
+    {
+      "choiceCount": "34",
+      "choiceA": "Break the silence by talking to her",
+      "choiceB": "Try to run past her and get down the stairs",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "86",
+      "resultPageB": "88"
+    },
+    {
+      "choiceCount": "35",
+      "choiceA": "Continue to look for Jane",
+      "choiceB": "Look into the cupboard",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "93",
+      "resultPageB": "94"
+    },
+    {
+      "choiceCount": "36",
+      "choiceA": "Take the circular stairs to the tower",
+      "choiceB": "Go upstairs to the attic",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "95",
+      "resultPageB": "96"
+    },
+    {
+      "choiceCount": "37",
+      "choiceA": "Follow the policeman outside",
+      "choiceB": "Run upstairs to try again to find Jane",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "64",
+      "resultPageB": "65"
+    },
+    {
+      "choiceCount": "38",
+      "choiceA": "Enter the room and approach the cat",
+      "choiceB": "Go back toward the stairs",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "62",
+      "resultPageB": "63"
+    },
+    {
+      "choiceCount": "39",
+      "choiceA": "Try to escape by running out of the room",
+      "choiceB": "Try to wake up from the nightmare by running right at the monster cat",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "97",
+      "resultPageB": "98"
+    },
+    {
+      "choiceCount": "40",
+      "choiceA": "Speak to Mrs. Bigley",
+      "choiceB": "Run",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "81",
+      "resultPageB": "92"
+    },
+    {
+      "choiceCount": "41",
+      "choiceA": "Continue down the stairs",
+      "choiceB": "Climb out the window, jump to the roof and find your way down from there",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "106",
+      "resultPageB": "108"
+    },
+    {
+      "choiceCount": "42",
+      "choiceA": "Close your eyes to gather your wits and strength",
+      "choiceB": "Shout and threaten to hit the cat",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "71",
+      "resultPageB": "103"
+    },
+    {
+      "choiceCount": "43",
+      "choiceA": "Never look back",
+      "choiceB": "Take one last look anyway",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "106",
+      "resultPageB": "119"
+    },
+    {
+      "choiceCount": "44",
+      "choiceA": "Go to Jervis' cottage and ask what he meant about a reward",
+      "choiceB": "Go back with Michael and Jane to their house and leave Melissa at Chimney Rock",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "111",
+      "resultPageB": "112"
+    },
+    {
+      "choiceCount": "45",
+      "choiceA": "Consult Gilliam Prem before ending your visit",
+      "choiceB": "Decide to have nothing further to do with Chimney Rock",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "114",
+      "resultPageB": "116"
+    },
+    {
+      "choiceCount": "46",
+      "choiceA": "Leave Melissa with Michael and Jane",
+      "choiceB": "Take her home with you",
+      "resultA": "1",
+      "resultB": "2",
+      "resultPageA": "120",
+      "resultPageB": "121"
+    }
+  ]
+}

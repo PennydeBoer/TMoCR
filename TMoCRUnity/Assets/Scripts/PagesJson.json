@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "pageNumber": "0",
+      "dialogue": [ "The Mystery of Chimney Rock" ],
+      "personSpeaking": [ "None" ]
+    },
+    {
+      "pageNumber": "1",
+      "dialogue": [ "Warning" ],
+      "personSpeaking": [ "None" ]
+    },
+    {
+      "pageNumber": "2",
+      "dialogue": [
+        "Does anyone live in the main house",
+        "Chimney Rock? \nMost people around here wouldn't live there for a million dollars.",
+        "It's supposed to be cursed",
+        "They say that some people who have gone inside have never been seen again. \nWhat happened to them is still a mystery"
+      ],
+      "personSpeaking": ["Player", "Michael", "Jane", "Jane" ]
+    }
+  ]
+}
